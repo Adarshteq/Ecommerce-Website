@@ -58,6 +58,70 @@ This project includes product listings, shopping cart functionality, user accoun
 
 - Interactive elements (hover effects, transitions)
 
+### Project Structure
+
+ecommerce-website/
+├── images/                # All website images
+├── index.html             # Homepage
+├── products.html          # Product listing page
+├── product-details.html   # Single product page
+├── cart.html              # Shopping cart page
+├── account.html           # Login/registration page
+├── style.css              # Main stylesheet
+└── README.md              # Project documentation
+
+## Key JavaScript Functions
+
+Mobile Menu Toggle (menutoggle())
+
+Handles the responsive navigation menu
+
+Account Form Switching (login(), register())
+
+Toggles between login and registration forms
+
+Product Image Gallery (in product-details.html)
+
+Allows viewing different product images
+
+## Customization
+
+To customize this project:
+
+Replace placeholder images in /images folder
+
+Update product information in HTML files
+
+Modify color scheme in style.css (look for #ff523b - the primary color)
+
+Add more products by duplicating the product card HTML structure
+
+## Browser Support
+
+Chrome (latest)
+
+Firefox (latest)
+
+Safari (latest)
+
+Edge (latest)
+
+Mobile Safari
+
+Chrome for Android
+
+## Credits
+
+Product images are placeholders (replace with your own)
+
+Font Awesome for icons
+
+Google Fonts for typography
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Installation
 
 1. Clone the repository:
