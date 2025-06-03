@@ -128,7 +128,7 @@ Google Fonts for typography
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [MIT License] [https://github.com/Adarshteq/Ecommerce-Website/blob/4904dc85b76bc3851f9eeb42cc571561cdf9f893/LICENSE] file for details.
 
 ## Installation
 
