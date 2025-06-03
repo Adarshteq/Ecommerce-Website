@@ -61,13 +61,21 @@ This project includes product listings, shopping cart functionality, user accoun
 ### Project Structure
 
 ecommerce-website/
+
 ├── images/                # All website images
+
 ├── index.html             # Homepage
+
 ├── products.html          # Product listing page
+
 ├── product-details.html   # Single product page
+
 ├── cart.html              # Shopping cart page
+
 ├── account.html           # Login/registration page
+
 ├── style.css              # Main stylesheet
+
 └── README.md              # Project documentation
 
 ## Key JavaScript Functions
