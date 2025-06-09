@@ -6,6 +6,7 @@ This project includes product listings, shopping cart functionality, user accoun
 
 📍 [Live] https://adarshteq.github.io/Ecommerce-Website/
 
+
 ## Features
 
 ### Core Features
